@@ -1,3 +1,7 @@
 #app {
   background-color: #ffd23d;
+  
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
